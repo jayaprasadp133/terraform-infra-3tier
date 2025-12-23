@@ -1,4 +1,4 @@
-# 3-Tier Architecture Using Terraform on AWS
+# 3-Tier Infrastructure Provisioning & Monitoring Using Terraform on AWS
 
 ## Overview
 This project provisions a production-style 3-tier architecture
